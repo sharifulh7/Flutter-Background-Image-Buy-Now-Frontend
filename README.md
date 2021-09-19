@@ -6,6 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+ADV View:
+
+![Assignment 0](https://user-images.githubusercontent.com/52095892/133934171-9807b465-ee0e-4c79-9db8-2d3221d105f1.jpg)
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
